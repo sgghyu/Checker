@@ -7,3 +7,9 @@ git clone https://github.com/sgghyu/Checker
 cd Checker
 
 python run.py
+
+
+
+
+
+telegram : https://t.me/mm8cx
