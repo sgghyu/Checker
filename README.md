@@ -12,4 +12,4 @@ python run.py
 
 
 
-telegram : https://t.me/mm8cx
+telegram : https://t.me/mm88x
